@@ -1,4 +1,5 @@
- 
+ /* google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500;600;700;800&display=swap');
 /********************************* * ! Style rules defualt section **********************************/
 :root{
     --theme-primary:#FFB30E;
